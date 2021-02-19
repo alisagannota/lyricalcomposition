@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'luckiest_guyregular';
+    src: url('luckiestguy-regular-webfont.woff2') format('woff2'),
+         url('luckiestguy-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+html, body {
+    background-color: #FFF0BC;
+}
+
+a {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    color: #D38D9A;
+    font-size: 2em;
+    font-family: 'luckiest_guyregular', cursive;
+    margin: 1em;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #7B0303;
+}
