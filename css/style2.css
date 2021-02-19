@@ -24,4 +24,7 @@ a {
     margin: 1em;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #CFA306;
+    animation: flash; 
+    animation-duration: 5s;
+
 }

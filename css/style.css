@@ -23,4 +23,7 @@ a {
     margin: 1em;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #7B0303;
+    animation: heartBeat; 
+    animation-duration: 25s;
+    
 }

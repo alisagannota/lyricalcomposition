@@ -11,12 +11,13 @@ html, body {
     background-color: #D38D9A;
 }
 
+
 a {
-    text-decoration: none;
     display: flex;
+    height: 80vh;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    text-decoration: none;
     text-align: center;
     color: #FFF0BC;
     font-size: 2em;
@@ -24,4 +25,6 @@ a {
     margin: 1em;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #CFA306;
+    animation: wobble; 
+    animation-duration: 5s;
 }
