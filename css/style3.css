@@ -24,8 +24,13 @@ a {
     margin: 1em;
     -webkit-text-stroke-width: 0.01em;
     -webkit-text-stroke-color: #7B0303;
+  
+}
+
+h1 {
     animation: swing; 
     animation-duration: 5s;
+
 }
 
 #heart {
@@ -49,6 +54,7 @@ a {
     transform-origin: 0 100%;
 
   }
+  
   #heart:after {
     left: 0;
     transform: rotate(45deg);

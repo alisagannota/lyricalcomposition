@@ -23,9 +23,13 @@ a {
     margin: 1em;
     -webkit-text-stroke-width: 0.01em;
     -webkit-text-stroke-color: #7B0303;
+
+    
+}
+
+.text{
     animation: heartBeat; 
     animation-duration: 5s;
-    
 }
 
 #heart {

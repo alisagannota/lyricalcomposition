@@ -24,9 +24,12 @@ a {
     margin: 1em;
     -webkit-text-stroke-width: 0.01em;
     -webkit-text-stroke-color: #CFA306;
+    
+
+}
+h1{
     animation: flash; 
     animation-duration: 5s;
-
 }
 
 #heart {
