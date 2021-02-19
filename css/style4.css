@@ -18,13 +18,7 @@ a {
     justify-content: center;
     align-items: center;
     text-decoration: none;
-   text-align: center;
-    color: #FFF0BC;
-    font-size: 2em;
-    font-family: 'luckiest_guyregular', cursive;
-    margin: 1em;
-    -webkit-text-stroke-width: 0.01em;
-    -webkit-text-stroke-color: #CFA306;
+   
 }
 
 h1 {
