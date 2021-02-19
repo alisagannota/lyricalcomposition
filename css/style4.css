@@ -29,7 +29,6 @@ a {
 }
 
 h1 {
-    
     animation: jello; 
     animation-duration: 5s;
 }
